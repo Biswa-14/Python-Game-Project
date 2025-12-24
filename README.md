@@ -39,13 +39,6 @@ python main.py
 🙌 Contributions & Feedback:
 Feel free to fork, open issues, or suggest improvements! 💡
 
-💡 Bonus:
-
-You can also include a YouTube video link/demo if you have one!
-If you want a license, add MIT License or another relevant one.
-Want me to tweak it for your game? 😊
-
-
 
 
 
