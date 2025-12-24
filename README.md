@@ -16,7 +16,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/YourUsername/Game-Project.git
+git clone https://github.com/Biswa-14/Python-Game-Project/blob/main/PyGAME/Gallery/main.py
 cd Game-Project
 Install dependencies (if any):
 bash
@@ -28,8 +28,6 @@ bash
 Copy
 Edit
 python main.py
-📸 Screenshots:
-(Attach images of gameplay here)
 
 🚀 Future Improvements:
 🔹 Adding more levels
